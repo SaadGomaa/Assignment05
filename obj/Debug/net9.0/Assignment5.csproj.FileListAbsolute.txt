@@ -1,0 +1,14 @@
+/Users/saadgomaa/Documents/Full Stack/Back-End/C#/Assignment5/bin/Debug/net9.0/Assignment5
+/Users/saadgomaa/Documents/Full Stack/Back-End/C#/Assignment5/bin/Debug/net9.0/Assignment5.deps.json
+/Users/saadgomaa/Documents/Full Stack/Back-End/C#/Assignment5/bin/Debug/net9.0/Assignment5.runtimeconfig.json
+/Users/saadgomaa/Documents/Full Stack/Back-End/C#/Assignment5/bin/Debug/net9.0/Assignment5.dll
+/Users/saadgomaa/Documents/Full Stack/Back-End/C#/Assignment5/bin/Debug/net9.0/Assignment5.pdb
+/Users/saadgomaa/Documents/Full Stack/Back-End/C#/Assignment5/obj/Debug/net9.0/Assignment5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saadgomaa/Documents/Full Stack/Back-End/C#/Assignment5/obj/Debug/net9.0/Assignment5.AssemblyInfoInputs.cache
+/Users/saadgomaa/Documents/Full Stack/Back-End/C#/Assignment5/obj/Debug/net9.0/Assignment5.AssemblyInfo.cs
+/Users/saadgomaa/Documents/Full Stack/Back-End/C#/Assignment5/obj/Debug/net9.0/Assignment5.csproj.CoreCompileInputs.cache
+/Users/saadgomaa/Documents/Full Stack/Back-End/C#/Assignment5/obj/Debug/net9.0/Assignment5.dll
+/Users/saadgomaa/Documents/Full Stack/Back-End/C#/Assignment5/obj/Debug/net9.0/refint/Assignment5.dll
+/Users/saadgomaa/Documents/Full Stack/Back-End/C#/Assignment5/obj/Debug/net9.0/Assignment5.pdb
+/Users/saadgomaa/Documents/Full Stack/Back-End/C#/Assignment5/obj/Debug/net9.0/Assignment5.genruntimeconfig.cache
+/Users/saadgomaa/Documents/Full Stack/Back-End/C#/Assignment5/obj/Debug/net9.0/ref/Assignment5.dll
