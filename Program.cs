@@ -7,7 +7,7 @@ class Program
         x = y;
         y = temp;
     }
-    public static void SwapRef(ref int x,ref int y)
+    public static void SwapRef(ref int x, ref int y)
     {
         int temp = x;
         x = y;
@@ -64,13 +64,13 @@ class Program
         if (num < 0)
         {
             throw new ArgumentOutOfRangeException("Number must be >= 0");
-        } 
+        }
         long result = 1;
         for (int i = 2; i <= num; i++)
         {
             result *= i;
         }
-        return  result;
+        return result;
     }
 
     public static string ChangeChar(string text, int index, char replace)
@@ -78,7 +78,8 @@ class Program
         if (text is null)
         {
             throw new ArgumentNullException("text cannot be null");
-        };        
+        }
+        ;
         if (index < 0 || index >= text.Length)
         {
             throw new ArgumentOutOfRangeException("Index is outside the string length");
@@ -152,12 +153,13 @@ class Program
         #endregion
 
         #region Q8
-        Console.Write("Enter Your Word: ");
-        string text = Console.ReadLine();
-        Console.Write("Enter Your Char: ");
-        string ch = Console.ReadLine();
-        string result = ChangeChar(text, 0, ch[0]);
-        System.Console.WriteLine(result);
+        // Console.Write("Enter Your Word: ");
+        // string text = Console.ReadLine();
+        // Console.Write("Enter Your Char: ");
+        // string ch = Console.ReadLine();
+        // string result = ChangeChar(text, 0, ch[0]);
+        // System.Console.WriteLine(result);
         #endregion
     }
+    
 }
